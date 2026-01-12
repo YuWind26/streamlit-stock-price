@@ -1,0 +1,15 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+xgboost
+FinMind
+mplfinance
+
+tensorflow
+keras
+tqdm
+
